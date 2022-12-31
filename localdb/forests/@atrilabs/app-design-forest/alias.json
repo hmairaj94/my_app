@@ -1,0 +1,14 @@
+{
+  "BarChart": 1,
+  "Image": 23,
+  "Flex": 120,
+  "TextBox": 195,
+  "Button": 28,
+  "Link": 4,
+  "Div": 10,
+  "Slider": 3,
+  "Accordion": 31,
+  "Step": 1,
+  "Carousel": 1,
+  "Dropdown": 2
+}
